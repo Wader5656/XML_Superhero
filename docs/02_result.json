@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Bird-Brain",
+        "race": null
+    },
+    {
+        "name": "Box IV",
+        "race": null
+    },
+    {
+        "name": "Ego",
+        "race": null
+    },
+    {
+        "name": "Feral",
+        "race": null
+    },
+    {
+        "name": "Firelord",
+        "race": null
+    },
+    {
+        "name": "Forge",
+        "race": null
+    },
+    {
+        "name": "Franklin Storm",
+        "race": null
+    },
+    { "name": "Godzilla","race": "Kaiju" },
+    {
+        "name": "Living Brain",
+        "race": null
+    },
+    { "name": "Living Tribunal","race": "Cosmic Entity" },
+    {
+        "name": "Machine Man",
+        "race": null
+    },
+    { "name": "Man of Miracles","race": "God \/ Eternal" },
+    { "name": "One-Above-All","race": "Cosmic Entity" },
+    { "name": "Parademon","race": "Parademon" },
+    {
+        "name": "Shadow King",
+        "race": null
+    }
+]

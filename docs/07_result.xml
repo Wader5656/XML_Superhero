@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<races>
+    <race race="Human">
+        <name>Alfred Thaddeus Crane Pennyworth</name>
+        <name_length>4</name_length>
+    </race>
+    <race race="Icthyo Sapien">
+        <name>Abraham Sapien</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Ungaran">
+        <name/>
+        <name_length>0</name_length>
+    </race>
+    <race race="Human / Radiation">
+        <name>Susan Storm Richards</name>
+        <name_length>3</name_length>
+    </race>
+    <race race="Cosmic Entity">
+        <name>Abraxas</name>
+        <name_length>1</name_length>
+    </race>
+    <race race="Cyborg">
+        <name>Cyberdyne Systems Series 800 Terminator Model 101</name>
+        <name_length>7</name_length>
+    </race>
+    <race race="Xenomorph XX121">
+        <name>Xenomorph</name>
+        <name_length>1</name_length>
+    </race>
+    <race race="Android">
+        <name>Cyberdyne Systems Series 1000 Terminator</name>
+        <name_length>5</name_length>
+    </race>
+    <race race="Vampire">
+        <name>Eric Brooks</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Mutant">
+        <name>Warren Kenneth Worthington III</name>
+        <name_length>4</name_length>
+    </race>
+    <race race="God / Eternal">
+        <name>Mr. Mxyzptlk</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Symbiote">
+        <name>Eddie Brock</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Atlantean">
+        <name>Namor McKenzie</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Alien">
+        <name>Dargin Bokk</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Neyaphem">
+        <name/>
+        <name_length>0</name_length>
+    </race>
+    <race race="New God">
+        <name>Barda Free</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Alpha">
+        <name>Gary Bell</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Bizarro">
+        <name>Bizarro</name>
+        <name_length>1</name_length>
+    </race>
+    <race race="Inhuman">
+        <name>Medusalith Amaquelin Boltagon</name>
+        <name_length>3</name_length>
+    </race>
+    <race race="Metahuman">
+        <name>Laurel Lance</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Demon">
+        <name>Anung Un Rama</name>
+        <name_length>3</name_length>
+    </race>
+    <race race="Human / Clone">
+        <name/>
+        <name_length>0</name_length>
+    </race>
+    <race race="Human-Kree">
+        <name>Carol Danvers</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Dathomirian Zabrak">
+        <name/>
+        <name_length>0</name_length>
+    </race>
+    <race race="Human / Cosmic">
+        <name>Jonathan Osterman</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Human / Altered">
+        <name>Arthur Sampson Douglas</name>
+        <name_length>3</name_length>
+    </race>
+    <race race="Kryptonian">
+        <name>Faora Hu-Ul</name>
+        <name_length>3</name_length>
+    </race>
+    <race race="Kakarantharaian">
+        <name/>
+        <name_length>0</name_length>
+    </race>
+    <race race="Black Racer">
+        <name>Barry Allen</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Zen-Whoberian">
+        <name>Gamora Zen Whoberi Ben Titan</name>
+        <name_length>5</name_length>
+    </race>
+    <race race="Strontian">
+        <name>Kallark</name>
+        <name_length>1</name_length>
+    </race>
+    <race race="Kaiju">
+        <name>Gojira</name>
+        <name_length>1</name_length>
+    </race>
+    <race race="Saiyan">
+        <name>Kakarot</name>
+        <name_length>1</name_length>
+    </race>
+    <race race="Gorilla">
+        <name>Grodd</name>
+        <name_length>1</name_length>
+    </race>
+    <race race="Rodian">
+        <name>Greedo</name>
+        <name_length>1</name_length>
+    </race>
+    <race race="Flora Colossus">
+        <name>Groot</name>
+        <name_length>1</name_length>
+    </race>
+    <race race="Human-Vuldarian">
+        <name>Guy Gardner</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Asgardian">
+        <name>Loki Laufeyson</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Demi-God">
+        <name>Cassandra Elizabeth Sandsmark</name>
+        <name_length>3</name_length>
+    </race>
+    <race race="Eternal">
+        <name>Mark Milton</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Gungan">
+        <name>Jar Jar Binks</name>
+        <name_length>3</name_length>
+    </race>
+    <race race="Bolovaxian">
+        <name/>
+        <name_length>0</name_length>
+    </race>
+    <race race="Animal">
+        <name>King Kong</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Czarnian">
+        <name>Lobo</name>
+        <name_length>1</name_length>
+    </race>
+    <race race="Martian">
+        <name>J'onn J'onzz</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Spartoi">
+        <name>J'son</name>
+        <name_length>1</name_length>
+    </race>
+    <race race="Luphomoid">
+        <name/>
+        <name_length>0</name_length>
+    </race>
+    <race race="Parademon">
+        <name/>
+        <name_length>0</name_length>
+    </race>
+    <race race="Yautja">
+        <name>Yautja</name>
+        <name_length>1</name_length>
+    </race>
+    <race race="Maiar">
+        <name>Sauron</name>
+        <name_length>1</name_length>
+    </race>
+    <race race="Clone">
+        <name>Kaine Parker</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Talokite">
+        <name>Tasmia Mallor</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Korugaran">
+        <name>Thaal Sinestro</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Zombie">
+        <name>Cyrus Gold</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Human-Vulcan">
+        <name>S'chn T'gai Spock</name>
+        <name_length>3</name_length>
+    </race>
+    <race race="Human-Spartoi">
+        <name>Peter Jason Quill</name>
+        <name_length>3</name_length>
+    </race>
+    <race race="Tamaranean">
+        <name>Koriand'r</name>
+        <name_length>1</name_length>
+    </race>
+    <race race="Frost Giant">
+        <name>Ymir</name>
+        <name_length>1</name_length>
+    </race>
+    <race race="Amazon">
+        <name>Diana Prince</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Mutant / Clone">
+        <name>Laura Kinney</name>
+        <name_length>2</name_length>
+    </race>
+    <race race="Yoda's species">
+        <name>Yoda</name>
+        <name_length>1</name_length>
+    </race>
+</races>

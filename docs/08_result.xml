@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heroes>
+    <female-heroes>
+        <avg-height>224.56 cm</avg-height>
+        <avg-weight>79.15 kg</avg-weight>
+    </female-heroes>
+    <male-heroes>
+        <avg-height>320.48 cm</avg-height>
+        <avg-weight>29958.62 kg</avg-weight>
+    </male-heroes>
+</heroes>

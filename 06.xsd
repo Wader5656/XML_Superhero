@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="publishers">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="publisher" type="publisher" minOccurs="1" maxOccurs="unbounded" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:complexType name="publisher">
+        <xs:sequence>
+            <xs:element name="superheroes" type="xs:positiveInteger" minOccurs = "1" maxOccurs="1"/>
+        </xs:sequence>
+        <xs:attribute name="name" type="xs:string" use="required" />
+    </xs:complexType>
+</xs:schema>

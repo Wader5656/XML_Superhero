@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heroes>
+    <hero name="Green Arrow">
+        <stats>
+            <intelligence>81</intelligence>
+            <strength>12</strength>
+            <power>39</power>
+            <speed>35</speed>
+            <durability>28</durability>
+            <combat>90</combat>
+        </stats>
+    </hero>
+    <hero name="Kilowog">
+        <stats>
+            <intelligence>81</intelligence>
+            <strength>90</strength>
+            <power>100</power>
+            <speed>53</speed>
+            <durability>42</durability>
+            <combat>80</combat>
+        </stats>
+    </hero>
+    <hero name="Hal Jordan">
+        <stats>
+            <intelligence>69</intelligence>
+            <strength>90</strength>
+            <power>100</power>
+            <speed>75</speed>
+            <durability>80</durability>
+            <combat>70</combat>
+        </stats>
+    </hero>
+    <hero name="Abin Sur">
+        <stats>
+            <intelligence>50</intelligence>
+            <strength>90</strength>
+            <power>99</power>
+            <speed>53</speed>
+            <durability>64</durability>
+            <combat>65</combat>
+        </stats>
+    </hero>
+    <hero name="Guy Gardner">
+        <stats>
+            <intelligence>38</intelligence>
+            <strength>90</strength>
+            <power>100</power>
+            <speed>53</speed>
+            <durability>64</durability>
+            <combat>64</combat>
+        </stats>
+    </hero>
+    <hero name="Kyle Rayner">
+        <stats>
+            <intelligence>69</intelligence>
+            <strength>90</strength>
+            <power>100</power>
+            <speed>50</speed>
+            <durability>60</durability>
+            <combat>60</combat>
+        </stats>
+    </hero>
+    <hero name="Sinestro">
+        <stats>
+            <intelligence>75</intelligence>
+            <strength>85</strength>
+            <power>100</power>
+            <speed>53</speed>
+            <durability>64</durability>
+            <combat>55</combat>
+        </stats>
+    </hero>
+</heroes>
