@@ -1,5 +1,7 @@
 Tari Levente Fejlett XML Technológiák beadandó feladat
 
+Az összes kimenet a docs almappába van elhelyezve.
+
 Superhero-api
 
 1. JSON: A teljes json kiíratása az apiról.

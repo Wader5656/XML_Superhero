@@ -45,24 +45,3 @@ return
                 "weight": $s?appearance?weight?2
             }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
