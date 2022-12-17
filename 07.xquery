@@ -42,8 +42,7 @@ return
                 let $heroes-in-race := $superheroes?*[?appearance?race = $race]
                 let $arr := local:name($heroes-in-race?biography?fullName)
                 let $max := $arr ! ?name_length => max()
-                let $longest := $arr[?name_length eq $max]
-                
+                let $longest := $arr[?name_length eq $max]               
                 return
                   <race race = "{$race}">
                         <name>{$longest?name[1]}</name>

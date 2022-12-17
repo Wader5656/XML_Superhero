@@ -14,9 +14,7 @@ declare option output:media-type "application/json";
 
 declare function local:getResult($url as xs:string) {
     let $doc := json-doc($url)
-    return $doc
-
-        
+    return $doc    
 };
 
 let $url := "https://akabab.github.io/superhero-api/api/all.json"

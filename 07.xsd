@@ -15,7 +15,4 @@
         </xs:sequence>
         <xs:attribute name="race" type="xs:string" use="required" />
     </xs:complexType>
-
-    
-    
 </xs:schema>

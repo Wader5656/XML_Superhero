@@ -23,11 +23,6 @@
             <xs:element name = "speed" type ="xs:integer" minOccurs="1" maxOccurs="1"/>
             <xs:element name = "durability" type ="xs:integer" minOccurs="1" maxOccurs="1"/>
             <xs:element name = "combat" type ="xs:integer" minOccurs="1" maxOccurs="1"/>
-            
         </xs:sequence>
     </xs:complexType>
-    
-    
-    
-    
 </xs:schema>

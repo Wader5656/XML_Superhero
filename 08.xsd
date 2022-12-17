@@ -6,8 +6,7 @@
                 <xs:element name="female-heroes" type="female-heroes" minOccurs="1" maxOccurs="unbounded" />
                 <xs:element name="male-heroes" type="male-heroes" minOccurs="1" maxOccurs="unbounded" />
             </xs:sequence>
-        </xs:complexType>
-        
+        </xs:complexType>   
     </xs:element>
     
     <xs:complexType name="female-heroes">
@@ -16,6 +15,7 @@
                 <xs:element name="avg-weight" type="avg-weight" />
             </xs:sequence>
     </xs:complexType>
+    
     <xs:complexType name="male-heroes">
         <xs:sequence>
             <xs:element name="avg-height" type="avg-height" />

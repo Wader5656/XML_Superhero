@@ -27,7 +27,6 @@ declare function local:get-average-value($heroes, $appearance-key as xs:string) 
 
 let $superheroes := json-doc("docs/01_result.json")
 
-
 let $female-heroes := $superheroes?*[?appearance?gender = "Female"]
 let $male-heroes := $superheroes?*[?appearance?gender = "Male"]
 

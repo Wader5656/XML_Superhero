@@ -25,12 +25,10 @@ declare function local:getgender_amount($superheroes, $gender, $eye) as xs:integ
             0
 };
 
-
 let $superheroes := json-doc("docs/01_result.json")
 
 let $eyecolors := $superheroes?*?appearance?eyeColor => distinct-values()
 let $allheronumber := count($superheroes?*)
-
 
 return
     document {
@@ -59,7 +57,6 @@ return
                     </thead>
                     <tbody>
                         {
-                            
                             for $s in $superheroes
                             for $eyecolor in $eyecolors
                             let $males := local:getgender_amount($superheroes, "Male", $eyecolor)
@@ -68,7 +65,6 @@ return
                                 where $eyecolor != ""
                                 group by $eyecolor
                                 order by $rate descending
-                            
                             return
                                 <tr>
                                     <td>{$eyecolor}</td>
@@ -97,8 +93,6 @@ return
                         }
                     </tbody>
                 </table>
-            
             </body>
-        
         </html>
     }

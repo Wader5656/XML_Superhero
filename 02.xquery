@@ -15,7 +15,6 @@ declare option output:media-type "application/json";
 
 let $superheroes := json-doc("docs/01_result.json")
 
-
 return 
        array{ for $s in $superheroes?*
                 where contains($s?appearance?gender, "-")
