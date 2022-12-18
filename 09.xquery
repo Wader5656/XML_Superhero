@@ -1,7 +1,7 @@
 (: 
 9. feladat: XML
 
-Az összes olyan hős kiírtatása akik valahogy kötődnek zöldlámpáshoz, harc érték alapján csökkenően rendezve.
+Az összes olyan hős statisztikáinak kiírtatása akik valahogy kötődnek zöldlámpáshoz, harc érték alapján csökkenően rendezve.
 :)
 
 xquery version "3.1";
